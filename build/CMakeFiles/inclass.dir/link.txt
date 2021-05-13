@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Werror -pthread    CMakeFiles/inclass.dir/src/main.o CMakeFiles/inclass.dir/src/Parse.o  -o inclass -rdynamic 

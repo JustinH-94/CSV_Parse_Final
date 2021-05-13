@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuser/Justin/Final_CSVParse/test/main.cpp
+unitTest.h
+/home/cuser/Justin/Final_CSVParse/test/unitTest.h
+cassert
+-
+
+/home/cuser/Justin/Final_CSVParse/test/unitTest.h
+fstream
+-
+iostream
+-
+vector
+-
+

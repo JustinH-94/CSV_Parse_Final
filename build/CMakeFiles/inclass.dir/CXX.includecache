@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuser/Justin/Final_CSVParse/src/Parse.hpp
+string
+-
+vector
+-
+
+/home/cuser/Justin/Final_CSVParse/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+Parse.hpp
+/home/cuser/Justin/Final_CSVParse/src/Parse.hpp
+

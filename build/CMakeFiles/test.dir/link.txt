@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Werror -pthread    CMakeFiles/test.dir/test/main.o  -o test -rdynamic 
